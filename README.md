@@ -19,14 +19,14 @@ Phone Number:
 
 Cake flavours:
 Chocolate (Available)
-Vanilla (Unavailable)
+Vanilla (Available)
 Strawberry (Unavailable)
 Blueberry (Unavailable)
 
 Icing flavours:
 Chocolate (Available)
-Vanilla (UnAvailable)
-Mint (Available)
+Vanilla (Available)
+Mint (Unvailable)
 Strawberry (Available)
 Blueberry (Available)
 
@@ -61,7 +61,7 @@ No loyalty program (will soon be implemented)
 No refunds and returns
 
 Promotions:
-[Chocolate Spree] Chocolate cake 20% off (End at 29th March)
+[Chocolate Spree] Chocolate cake 20% off (End at 29th June)
 
 Tax:
 10% Government tax
